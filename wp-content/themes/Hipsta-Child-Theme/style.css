@@ -1,0 +1,41 @@
+/*
+Theme Name:     Hipsta Child
+Description:    Hipsta Child
+Template:       hipsta
+Version:        1.0.0
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.top-nav-wrapper {
+	display: none;
+}
+
+/* .blog-navigation .blog-navigation-link i {
+  color: #2fbcac;
+}
+
+
+.blog-navigation .blog-navigation-link:hover {
+  background: #333333;
+  border-color: #333333;
+  color: #2fbcac;
+}
+
+.contents-inner.list-view .blog-post header .meta a:hover {
+  color: #2fbcac;
+}
+
+a:active,
+a:focus,
+a:hover {
+	color: #2fbcac;
+}
+*/
+
+/*
+#main-footer a:hover, #bottom-footer a:hover,
+#main-footer .widget_latest_posts_entries .post-title a:hover,
+#main-footer .widget_categories a:hover, #main-footer .widget_socials a:hover {
+  color:#2fbcac;
+}
+*/
