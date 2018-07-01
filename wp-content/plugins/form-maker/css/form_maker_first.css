@@ -1,8 +1,18 @@
 .wdform-page-and-images {
+  border: 1px solid #e5e5e5 !important;
 	color: #000000;
+	display: block !important;
+  margin: 10px 0;
 	font-size: 14px;
 	font-weight: normal;
 	width: 100%;
+}
+.form_id_tempform_view_img {
+  background: #F7F7F7;
+  display: flex;
+  flex-basis: inherit;
+  justify-content: space-between;
+  padding: 10px;
 }
 
 .wdform_table1 {
@@ -10,17 +20,6 @@
 	font-size: 14px;
 	font-weight: normal;
 	width: 100%;
-}
-
-.wdform_tbody1 {
-	float: left;
-}
-
-.wdform_table2 {
-	border-collapse: separate !important;
-	border-spacing: 0px;
-	float: left;
-	padding-right: 50px !important;
 }
 
 .time_box {
@@ -53,18 +52,6 @@
 	height: 16px;
 	margin: 0;
 	padding: 0
-}
-
-.input_deactive {
-	border-width: 1px;
-	color: #999999;
-	font-style: italic;
-}
-
-.input_active {
-	border-width: 1px;
-	color: #000000;
-	font-style: normal;
 }
 
 .required {
